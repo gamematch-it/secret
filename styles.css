@@ -1,0 +1,44 @@
+body {
+    padding: 25px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9ff;
+}
+
+.invitation {
+    background: #fffafa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+}
+
+h1 {
+    color: #ffbcd9;
+}
+
+p {
+    color: #333;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    background: #ffbcd9;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #4a58a2;
+    color: white;
+}
+
+.or {
+    margin: 10px 0;
+    font-weight: bold;
+}
